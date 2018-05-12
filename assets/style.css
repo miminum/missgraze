@@ -11,6 +11,8 @@
 
 .vertical-align {
   margin-top: 1%; }
+  .vertical-align .logo {
+    max-width: 100%; }
 
 .social-icons {
   margin-top: 5%; }
@@ -18,7 +20,7 @@
     margin-left: 10px;
     margin-right: 10px; }
     .social-icons a i {
-      font-size: 26px;
+      font-size: 30px;
       color: #F7F8F6; }
 
 /*# sourceMappingURL=style.css.map */
